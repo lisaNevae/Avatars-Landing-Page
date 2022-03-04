@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="pingback" href="https: //domainname.com/xmlrpc.php" />
+  <title>Landing Page | Free User Picks</title>
+  <!-- style and script resources -->
+  <link rel="stylesheet" href="./styles.css" media="all">
+  <!--meta properties -->
+  <meta name="description" content=" Your site description." />
+  <!--detailed robots meta https://developers.google.com/search/reference/robots_meta_tag -->
+  <meta name="robots" content="index, follow, max-snippet: -1, max-image-preview:large, max-video-preview: -1" />
+  <link rel="canonical" href="" />
+  <!--open graph meta tags for social sites and search engines-->
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="  Opengraph content 25 char are best" />
+  <meta property="og:description" content="  #description." />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:image" content="images//hom-banner-compressed.jpg" />
+  <meta property="og:image:secure_url" content="images//hom-banner-compressed.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="660" />
+  <!--twitter description-->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="." />
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:image" content="images/hom-banner-compressed.jpg" />
+  <meta name="twitter:creator" content="@" />
+  <!--opengraph tags for location or address for information panel in google-->
+  <meta name="og:latitude" content="" />
+  <meta name="og:longitude" content="" />
+  <meta name="og:street-address" content="" />
+  <meta name="og:locality" content="" />
+  <meta name="og:region" content="" />
+  <meta name="og:postal-code" content="" />
+  <meta name="og:country-name" content="" />
+  <!--search engine verification-->
+  <meta name="google-site-verification" content="" />
+  <meta name="yandex-verification" content="" />
+  <!--powered by meta-->
+  <meta name="generator" content="" />
+  <!-- Site fevicon icons -->
+  <link rel="icon" href="images/icon/cropped-cropped-favicon-1-1-32x32.png" sizes="32x32" />
+  <link rel="icon" href="images/icon/cropped-cropped-favicon-1-1-192x192.png" sizes="192x192" />
+  <link rel="apple-touch-icon-precomposed" href="images/icon/cropped-cropped-favicon-1-1-180x180.png" />
+  <meta name="msapplication-TileImage" content="images/icon/cropped-cropped-favicon-1-1-270x270.png" />
+  <!--complete list of meta tags at - https://gist.github.com/lancejpollard/1978404 -->
+</head>
+
+<body>
+  <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+  <div class="container">
+    <header>
+      <nav>
+        <h4 class="title-bold">Free User Picks</h4>
+        <a href="#" class="link">More Vector and 3d illustrations</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <h1>100 free user pics for your designs are here!</h1>
+      <a href="#" class="btn-link" role="button">Download Free</a>
+    </section>
+    <section class="icons">
+      <figure class="icon"><img src="./img/icons without background/627773.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627775.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627777.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627780.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627792.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627794.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627795.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627796.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627797.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627799.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627801.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627804.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627810.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627813.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/627815.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/4815169.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/4815177.png" alt=""></figure>
+      <figure class="icon"><img src="./img/icons without background/4815185.png" alt=""></figure>
+    </section>
+
+    <section class="icons-content">
+      <div class="content-1">
+        <h2>Colorful set of characters</h2>
+        <p class="text-gray">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione cupiditate, explicabo eius
+          necessitatibus numquam sequi sunt aut ea. Ea, voluptatum.</p>
+        <figure class="hero-icon"><img src="./img/coleccion-dibujada-mano-diferentes-iconos-perfil_23-2149081373.jpg"
+            alt=""></figure>
+      </div>
+
+      <div class="content-2">
+        <div class="cont-text">
+          <h2>Edit images as you wish Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel, excepturi.</h2>
+          <div class="icons-customer">
+            <figure><img src="./img/icons without background/1674291.png" alt=""></figure>
+            <figure><img src="./img/icons without background/1674372.png" alt=""></figure>
+            <figure><img src="./img/icons without background/1674453.png" alt=""></figure>
+            <figure><img src="./img/icons without background/1674210.png" alt=""></figure>
+          </div>
+
+        </div>
+        <div class="cont-text">
+          <h2>100 free avatars Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto odit voluptatum
+            maiores.</h2>
+          <figure><img src="./img/coleccion-iconos-perfil-dibujados-mano-creativos_23-2149089025.jpg" alt=""
+              class="img-round"></figure>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <section class="hero-text">
+    <h2>These illustrations are great to be implemented in application designed</h2>
+  </section>
+
+  <div class="container">
+    <div class="slider">
+      <label for="slide1">Circle</label>
+      <input type="radio" name="slider" title="slide1" checked="checked" class="slider__nav" id="slide1" />
+      <label for="slide2">Square</label>
+      <input type="radio" name="slider" title="slide2" class="slider__nav" id="slide2" />
+
+      <div class="slider__inner">
+        <div class="slider__contents">
+          <figure class="slider_icon"><img src="./img/icons round/1154439.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154440.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154449.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154451.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154452.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154453.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154454.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154457.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154459.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154461.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154463.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154466.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154469.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154470.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons round/1154471.png" alt=""></figure>
+        </div>
+        <div class="slider__contents">
+          <figure class="slider_icon"><img src="./img/icons square/168719.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168721.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168722.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168723.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168724.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168725.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168726.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168727.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168728.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168729.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168730.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168731.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168732.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168733.png" alt=""></figure>
+          <figure class="slider_icon"><img src="./img/icons square/168734.png" alt=""></figure>
+        </div>
+      </div>
+    </div>
+
+    <div class="contenedor">
+      <h2>Grab high-quality vector illustrations for free</h2>
+      <div class="tabla">
+        <h4>Improve your design projects using free package of avatars</h4>
+        <ul>
+          <li>100 vector avatars created in various styles</li>
+          <li>For Commercial use</li>
+          <li>SVG, PNG sources</li>
+          <li>Compatible with Figma</li>
+        </ul>
+        <h5>Free</h5>
+        <a href="#" class="boton">Download</a>
+      </div>
+      <div class="tabla">
+        <h4>Get one subscription to take and advantage of all the Craftwork posibilities</h4>
+        <ul>
+          <li>Create beautiful design with thousands veector illustrations</li>
+          <li>Boost your workflow with great-quality UX/UI kits</li>
+          <li>New assets available for you for free during a year</li>
+        </ul>
+        <h5>From $89/quarter</h5>
+        <a href="#" class="boton">Explore All Access</a>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
